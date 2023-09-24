@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noctis Phaevus</h1>
+<h1 align="center">Hi 👋, I'm Phaevus</h1>
 <h3 align="center">I'm a hacker who knows how to have fun 💀</h3>
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="margin:auto; display:block; width:400 height:auto;" alt="Resim 2">
 - 🌱 I’m currently learning **Cyber Security**
